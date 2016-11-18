@@ -1,0 +1,6 @@
+framework module Pods_DuplicateNames {
+  umbrella header "Pods-DuplicateNames-umbrella.h"
+
+  export *
+  module * { export * }
+}

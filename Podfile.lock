@@ -1,0 +1,15 @@
+PODS:
+  - AlgoliaSearch-Client-Swift (4.4)
+  - Backendless-osx-SDK (3.0.43)
+
+DEPENDENCIES:
+  - AlgoliaSearch-Client-Swift
+  - Backendless-osx-SDK
+
+SPEC CHECKSUMS:
+  AlgoliaSearch-Client-Swift: 4ce299bf353d1d5b6a4b57db2a8bcbafc46f9fa7
+  Backendless-osx-SDK: af49460c92e35bf5f37284a438112fb63f0acd02
+
+PODFILE CHECKSUM: 2944ed3b2d35746d7fce209c26dc28fc6457ca44
+
+COCOAPODS: 1.2.0.beta.1
